@@ -1,0 +1,12 @@
+body{
+    background-color:lightblue;
+}
+h1{
+    color:purple;
+}
+button{
+    width:100px;
+    height:30px;
+    color:blue;
+    background-color:rgb(225, 255, 0);
+}
